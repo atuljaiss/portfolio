@@ -1,0 +1,360 @@
+{
+  "personal": {
+    "name": "Nidhi Sanjay Kumar Shah",
+    "title": "Financial Advisor & Market Analyst",
+    "brand": "GT Markets",
+    "email": "hello@gtmarkets.com",
+    "telegramUsername": "@nidhi12300",
+    "location": "Delhi, India",
+    "origin": "Gujarat",
+    "phone": "+91 98765 43210",
+    "waNumber": "91XXXXXXXXXX",
+    "telegramUrl": "https://t.me/nidhi12300",
+    "waUrl": "https://wa.me/91XXXXXXXXXX",
+    "bio": [
+      "Hi, I'm Nidhi Sanjay Kumar Shah.",
+      "I am a Financial Advisor and Market Analyst specializing in the Indian Stock Market.",
+      "With over 10 years of experience in financial markets, I help traders and investors make informed decisions through research-backed analysis and disciplined investment strategies.",
+      "I completed my MBA in Finance from IIM Bangalore. Currently based in Delhi and originally from Gujarat, I have worked with thousands of traders by simplifying market insights into actionable strategies.",
+      "My mission is to make wealth creation accessible through education, research, and disciplined investing."
+    ],
+    "mbaCollege": "IIM Bangalore",
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+    "imageSmall": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=200&q=80"
+  },
+  "seo": {
+    "title": "Nidhi Sanjay Kumar Shah | Financial Advisor & Market Analyst",
+    "description": "Professional Financial Advisor specializing in Indian Stock Market analysis, investment strategies, equity research, and trading education.",
+    "keywords": ["financial advisor", "market analyst", "indian stock market", "investment advisor", "trading education", "wealth management", "GT Markets"],
+    "ogTitle": "Nidhi Sanjay Kumar Shah | Financial Advisor & Market Analyst",
+    "ogDescription": "Professional Financial Advisor specializing in Indian Stock Market analysis, investment strategies, and trading education.",
+    "ogType": "website",
+    "ogLocale": "en_IN"
+  },
+  "nav": {
+    "links": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Investments", "href": "#investments" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": "Join Telegram",
+    "brand": "GT Markets"
+  },
+  "hero": {
+    "badge": "Indian Stock Market Analysis",
+    "headline": "Helping Investors Build Wealth Through Smart Market Decisions.",
+    "headlineGradient": "Smart Market",
+    "subheadline": "Professional Financial Advisor & Indian Market Analyst helping traders and investors make data-driven investment decisions.",
+    "ctaButtons": [
+      { "label": "Join Telegram", "variant": "primary", "href": "https://t.me/nidhi12300", "icon": "MessageCircle" },
+      { "label": "Explore Services", "variant": "outline", "href": "#services", "icon": "ArrowRight" }
+    ],
+    "socialProof": {
+      "count": "10000+",
+      "label": "Trusted Members",
+      "subtext": "Growing community of smart investors"
+    },
+    "floatingCards": [
+      { "label": "10+ Years Experience", "icon": "Award", "color": "from-emerald-500 to-teal-500" },
+      { "label": "10000+ Community", "icon": "Users", "color": "from-blue-500 to-indigo-500" },
+      { "label": "Indian Market Expert", "icon": "TrendingUp", "color": "from-secondary to-yellow-500", "position": "-top-4 -right-4" },
+      { "label": "MBA Finance", "icon": "GraduationCap", "color": "from-purple-500 to-pink-500" }
+    ],
+    "floatingCardPositions": [
+      "-top-4 -left-4",
+      "-bottom-4 -left-4",
+      "-top-4 -right-4",
+      "-bottom-4 -right-4"
+    ]
+  },
+  "about": {
+    "sectionTitle": "About Me",
+    "sectionSubtitle": "Who I Am",
+    "highlights": [
+      { "label": "10+ Years Experience", "icon": "Award", "color": "from-emerald-500 to-teal-500" },
+      { "label": "MBA Finance", "icon": "GraduationCap", "color": "from-purple-500 to-pink-500" },
+      { "label": "Indian Market Specialist", "icon": "TrendingUp", "color": "from-blue-500 to-indigo-500" },
+      { "label": "Delhi, India", "icon": "MapPin", "color": "from-secondary to-yellow-500" },
+      { "label": "Originally from Gujarat", "icon": "Globe", "color": "from-rose-500 to-red-500" }
+    ]
+  },
+  "services": [
+    {
+      "title": "GT Family",
+      "subtitle": "Intraday Trading Analysis",
+      "description": "Daily market analysis, entry/exit guidance, support and resistance levels, risk management, and live discussion.",
+      "price": "₹999/month",
+      "cta": "Join Now",
+      "telegram": true,
+      "free": false,
+      "color": "from-emerald-500 to-teal-500",
+      "icon": "TrendingUp"
+    },
+    {
+      "title": "GT Comrade",
+      "subtitle": "Equity Analysis",
+      "description": "Swing trading ideas, positional investing, stock research, long-term wealth creation strategies.",
+      "price": "₹1,499/month",
+      "cta": "Join Now",
+      "telegram": true,
+      "free": false,
+      "color": "from-blue-500 to-indigo-500",
+      "icon": "BarChart3"
+    },
+    {
+      "title": "Account Management",
+      "subtitle": "Professional Portfolio Management",
+      "description": "Professional account management with disciplined risk management and personalized investment strategies.",
+      "price": "Custom Pricing",
+      "cta": "Buy Now",
+      "telegram": false,
+      "free": false,
+      "color": "from-purple-500 to-pink-500",
+      "icon": "Briefcase"
+    },
+    {
+      "title": "Profit Pool",
+      "subtitle": "Exclusive Opportunities",
+      "description": "Exclusive investment opportunities, portfolio strategies, market insights, and premium discussions.",
+      "price": "₹2,999/month",
+      "cta": "Buy Now",
+      "telegram": false,
+      "free": false,
+      "color": "from-secondary to-yellow-500",
+      "icon": "PiggyBank"
+    },
+    {
+      "title": "GT Forex",
+      "subtitle": "Forex Market Analysis",
+      "description": "Forex market analysis, technical setups, educational content, and premium trade ideas.",
+      "price": "₹1,299/month",
+      "cta": "Join Now",
+      "telegram": true,
+      "free": false,
+      "color": "from-cyan-500 to-blue-500",
+      "icon": "Globe2"
+    },
+    {
+      "title": "Growing Together",
+      "subtitle": "FREE Telegram Community",
+      "description": "Market updates, learning, news, and education. Join our free community and start your journey.",
+      "price": "Free",
+      "cta": "Join Free",
+      "telegram": true,
+      "free": true,
+      "color": "from-emerald-400 to-green-500",
+      "icon": "Users"
+    }
+  ],
+  "investments": {
+    "sectionTitle": "Investment Philosophy",
+    "sectionSubtitle": "My Approach",
+    "philosophies": [
+      {
+        "title": "Long-term Investing",
+        "description": "Focus on fundamentally strong companies with proven track records, competitive advantages, and sustainable growth potential for wealth creation over decades.",
+        "icon": "TrendingUp",
+        "color": "from-emerald-500 to-teal-500"
+      },
+      {
+        "title": "Swing Trading",
+        "description": "Capture medium-term price movements using technical analysis, market sentiment, and momentum indicators while maintaining strict risk controls.",
+        "icon": "BarChart3",
+        "color": "from-blue-500 to-indigo-500"
+      },
+      {
+        "title": "Risk Management",
+        "description": "Every investment decision starts with risk assessment. Position sizing, stop-losses, and portfolio hedging form the foundation of sustainable returns.",
+        "icon": "Shield",
+        "color": "from-secondary to-yellow-500"
+      },
+      {
+        "title": "Portfolio Diversification",
+        "description": "Strategic asset allocation across sectors, market caps, and instrument types to optimize risk-adjusted returns and reduce volatility.",
+        "icon": "PieChart",
+        "color": "from-purple-500 to-pink-500"
+      },
+      {
+        "title": "Wealth Creation",
+        "description": "Systematic approach to building long-term wealth through disciplined investing, regular portfolio rebalancing, and the power of compounding.",
+        "icon": "Sparkles",
+        "color": "from-cyan-500 to-blue-500"
+      },
+      {
+        "title": "Capital Preservation",
+        "description": "Protecting capital is paramount. Our strategies prioritize downside protection while capturing upside potential in all market conditions.",
+        "icon": "Castle",
+        "color": "from-rose-500 to-red-500"
+      }
+    ],
+    "stats": [
+      { "value": 1000, "suffix": "+", "label": "Research Reports", "icon": "FileText" },
+      { "value": 10, "suffix": "+", "label": "Years Experience", "icon": "Star" },
+      { "value": 10000, "suffix": "+", "label": "Community Members", "icon": "Users" },
+      { "value": 95, "suffix": "%", "label": "Client Satisfaction", "icon": "TrendingUp" }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "What Clients Say",
+    "sectionSubtitle": "Testimonials",
+    "disclaimer": "Note: Sample testimonials shown for layout purposes. Replace with real client feedback before publishing.",
+    "items": [
+      {
+        "quote": "The market insights are consistently detailed and easy to understand. They've helped me become a more disciplined investor.",
+        "author": "Rahul S.",
+        "role": "Trader, Mumbai"
+      },
+      {
+        "quote": "The educational approach and risk management guidance have improved the way I trade.",
+        "author": "Priya M.",
+        "role": "Investor, Delhi"
+      },
+      {
+        "quote": "Professional analysis with practical strategies. A great learning experience.",
+        "author": "Amit K.",
+        "role": "Trader, Bangalore"
+      }
+    ]
+  },
+  "whyChooseMe": {
+    "sectionTitle": "Why Choose Me",
+    "sectionSubtitle": "Trust & Credibility",
+    "reasons": [
+      {
+        "title": "Research Based Decisions",
+        "description": "Every recommendation is backed by thorough fundamental and technical research.",
+        "icon": "BarChart3",
+        "color": "from-emerald-500 to-teal-500"
+      },
+      {
+        "title": "Risk First Approach",
+        "description": "Capital protection is prioritized over returns. We manage downside before upside.",
+        "icon": "Shield",
+        "color": "from-blue-500 to-indigo-500"
+      },
+      {
+        "title": "Daily Market Insights",
+        "description": "Stay informed with daily market analysis, trends, and actionable opportunities.",
+        "icon": "Newspaper",
+        "color": "from-secondary to-yellow-500"
+      },
+      {
+        "title": "Community Support",
+        "description": "Join a thriving community of like-minded investors and traders sharing knowledge.",
+        "icon": "Users",
+        "color": "from-purple-500 to-pink-500"
+      },
+      {
+        "title": "Transparent Process",
+        "description": "Complete transparency in analysis, calls, and performance tracking.",
+        "icon": "Eye",
+        "color": "from-cyan-500 to-blue-500"
+      },
+      {
+        "title": "Long Term Wealth Focus",
+        "description": "Strategies designed for sustainable wealth creation, not short-term gains.",
+        "icon": "TrendingUp",
+        "color": "from-rose-500 to-red-500"
+      }
+    ]
+  },
+  "socialLinks": {
+    "sectionTitle": "Stay Connected",
+    "sectionTag": "Connect",
+    "links": [
+      { "label": "Telegram", "icon": "MessageCircle", "href": "https://t.me/nidhi12300", "color": "bg-sky-500", "hoverColor": "shadow-sky-500/40" },
+      { "label": "LinkedIn", "icon": "Briefcase", "href": "#", "color": "bg-blue-600", "hoverColor": "shadow-blue-600/40" },
+      { "label": "Instagram", "icon": "Camera", "href": "#", "color": "bg-pink-600", "hoverColor": "shadow-pink-600/40" },
+      { "label": "Twitter / X", "icon": "Send", "href": "#", "color": "bg-slate-800 dark:bg-slate-200 dark:text-slate-900", "hoverColor": "shadow-slate-800/40 dark:shadow-slate-200/40" },
+      { "label": "YouTube", "icon": "Play", "href": "#", "color": "bg-red-600", "hoverColor": "shadow-red-600/40" },
+      { "label": "WhatsApp", "icon": "Phone", "href": "https://wa.me/91XXXXXXXXXX", "color": "bg-green-500", "hoverColor": "shadow-green-500/40" }
+    ]
+  },
+  "contact": {
+    "sectionTitle": "Let's Build Wealth Together",
+    "sectionTag": "Get In Touch",
+    "formFields": [
+      { "label": "Name", "placeholder": "Your name", "type": "text" },
+      { "label": "Email", "placeholder": "your@email.com", "type": "email" },
+      { "label": "Phone", "placeholder": "+91 98765 43210", "type": "tel" },
+      { "label": "Message", "placeholder": "How can I help you?", "type": "textarea", "rows": 4 }
+    ],
+    "submitCta": "Book Consultation",
+    "quickConnect": {
+      "title": "Quick Connect",
+      "channels": [
+        { "label": "WhatsApp", "subtext": "+91 98765 43210", "icon": "Phone", "href": "https://wa.me/91XXXXXXXXXX", "color": "bg-green-500", "bgLight": "bg-green-50", "bgDark": "dark:bg-green-900/20", "textLight": "text-green-700", "textDark": "dark:text-green-400" },
+        { "label": "Telegram", "subtext": "@gtmarkets", "icon": "MessageCircle", "href": "https://t.me/nidhi12300", "color": "bg-sky-500", "bgLight": "bg-sky-50", "bgDark": "dark:bg-sky-900/20", "textLight": "text-sky-700", "textDark": "dark:text-sky-400" },
+        { "label": "Email", "subtext": "hello@gtmarkets.com", "icon": "Mail", "href": "mailto:hello@gtmarkets.com", "color": "bg-primary", "bgLight": "bg-primary/5", "bgDark": "dark:bg-primary/10", "textLight": "text-primary", "textDark": "dark:text-accent" },
+        { "label": "Location", "subtext": "Delhi, India", "icon": "MapPin", "color": "from-secondary to-yellow-500", "isLocation": true }
+      ]
+    },
+    "bottomCta": {
+      "title": "Start Your Wealth Journey",
+      "subtext": "Join 10000+ investors who trust GT Markets for their financial success."
+    }
+  },
+  "faq": [
+    {
+      "q": "Who is this service for?",
+      "a": "Our services are designed for both beginners and experienced traders looking for research-backed market analysis, trading guidance, and investment strategies for the Indian stock market."
+    },
+    {
+      "q": "How do I join the Telegram group?",
+      "a": "Click on the 'Join Telegram' button anywhere on this website, choose your preferred service, complete the payment, and you'll receive an invite link to the exclusive Telegram group."
+    },
+    {
+      "q": "Do you provide investment advice?",
+      "a": "We provide educational analysis, market insights, and research-based recommendations. All investments in securities carry market risks. Please consult your financial advisor before making investment decisions."
+    },
+    {
+      "q": "What is the refund policy?",
+      "a": "Due to the nature of our services, we do not offer refunds once access has been granted. We recommend starting with our free 'Growing Together' community to understand our approach before upgrading."
+    },
+    {
+      "q": "Can I cancel my subscription anytime?",
+      "a": "Yes, you can cancel your subscription at any time. Access will continue until the end of your billing period."
+    },
+    {
+      "q": "Is there a free option available?",
+      "a": "Yes! Our 'Growing Together' community is completely free and provides market updates, educational content, and general market news. It's a great way to get started."
+    }
+  ],
+  "footer": {
+    "brand": "GT Markets",
+    "description": "Professional Financial Advisory & Market Analysis for the Indian Stock Market. Helping investors build wealth through smart market decisions.",
+    "socials": [
+      { "icon": "MessageCircle", "href": "https://t.me/nidhi12300", "label": "Telegram" },
+      { "icon": "Briefcase", "href": "#", "label": "LinkedIn" },
+      { "icon": "Camera", "href": "#", "label": "Instagram" },
+      { "icon": "Send", "href": "#", "label": "Twitter" },
+      { "icon": "Play", "href": "#", "label": "YouTube" },
+      { "icon": "Phone", "href": "https://wa.me/91XXXXXXXXXX", "label": "WhatsApp" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Investments", "href": "#investments" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "services": [
+      { "label": "GT Family", "href": "#services" },
+      { "label": "GT Comrade", "href": "#services" },
+      { "label": "Account Management", "href": "#services" },
+      { "label": "Profit Pool", "href": "#services" },
+      { "label": "GT Forex", "href": "#services" },
+      { "label": "Growing Together", "href": "#services" }
+    ],
+    "disclaimer": "The information shared on this website is for educational and informational purposes only and should not be considered financial or investment advice. Investments in securities are subject to market risks. Please consult your financial advisor before making investment decisions.",
+    "copyright": "GT Markets. All rights reserved."
+  },
+  "disclaimer": {
+    "heading": "Disclaimer",
+    "text": "The information shared on this website is for educational and informational purposes only and should not be considered financial or investment advice. Investments in securities are subject to market risks. Please consult your financial advisor before making any investment decisions. Past performance does not guarantee future results."
+  }
+}
